@@ -1,0 +1,83 @@
+Column Name,Full Form
+loan_amnt,Loan Amount
+emp_length,Employment Length
+annual_inc,Annual Income
+dti,Debt-to-Income Ratio
+delinq_2yrs,Delinquencies in Last 2 Years
+open_acc,Open Accounts
+pub_rec,Public Records
+revol_bal,Revolving Balance
+revol_util,Revolving Utilization
+application_type,Application Type
+acc_now_delinq,Accounts Now Delinquent
+tot_coll_amt,Total Collection Amount
+tot_cur_bal,Total Current Balance
+open_acc_6m,Open Accounts in Last 6 Months
+open_act_il,Open Active Installment Loans
+open_il_12m,Open Installment Loans in Last 12 Months
+open_il_24m,Open Installment Loans in Last 24 Months
+mths_since_rcnt_il,Months Since Recent Installment Loan
+il_util,Installment Loan Utilization
+open_rv_12m,Open Revolving Accounts in Last 12 Months
+open_rv_24m,Open Revolving Accounts in Last 24 Months
+max_bal_bc,Maximum Balance on Bank Card
+all_util,All Account Utilization
+inq_fi,Financial Institution Inquiries
+acc_open_past_24mths,Accounts Opened in Past 24 Months
+avg_cur_bal,Average Current Balance
+bc_open_to_buy,Bank Card Open to Buy
+bc_util,Bank Card Utilization
+mo_sin_old_il_acct,Months Since Oldest Installment Account
+mo_sin_old_rev_tl_op,Months Since Oldest Revolving Trade Line Opened
+mo_sin_rcnt_rev_tl_op,Months Since Recent Revolving Trade Line Opened
+mo_sin_rcnt_tl,Months Since Recent Trade Line
+mort_acc,Mortgage Accounts
+mths_since_recent_bc,Months Since Recent Bank Card
+mths_since_recent_bc_dlq,Months Since Recent Bank Card Delinquency
+mths_since_recent_inq,Months Since Recent Inquiry
+mths_since_recent_revol_delinq,Months Since Recent Revolving Delinquency
+num_accts_ever_120_pd,Number of Accounts Ever 120+ Days Past Due
+num_actv_bc_tl,Number of Active Bank Card Trade Lines
+num_actv_rev_tl,Number of Active Revolving Trade Lines
+num_bc_sats,Number of Bank Card Satisfactory Accounts
+num_bc_tl,Number of Bank Card Trade Lines
+num_il_tl,Number of Installment Trade Lines
+num_op_rev_tl,Number of Open Revolving Trade Lines
+num_rev_accts,Number of Revolving Accounts
+num_rev_tl_bal_gt_0,Number of Revolving Trade Lines with Balance > 0
+num_tl_120dpd_2m,Number of Trade Lines 120+ Days Past Due in Last 2 Months
+num_tl_30dpd,Number of Trade Lines 30+ Days Past Due
+num_tl_90g_dpd_24m,Number of Trade Lines 90+ Days Past Due in Last 24 Months
+num_tl_op_past_12m,Number of Trade Lines Opened in Past 12 Months
+pct_tl_nvr_dlq,Percent of Trade Lines Never Delinquent
+percent_bc_gt_75,Percent of Bank Cards > 75% Utilization
+tax_liens,Tax Liens
+tot_hi_cred_lim,Total High Credit Limit
+term_36 months,Term 36 Months
+term_60 months,Term 60 Months
+home_ownership_ANY,Home Ownership: Any
+home_ownership_MORTGAGE,Home Ownership: Mortgage
+home_ownership_OWN,Home Ownership: Own
+home_ownership_RENT,Home Ownership: Rent
+home_ownership_NONE,Home Ownership: None
+home_ownership_OTHER,Home Ownership: Other
+purpose_car,Purpose: Car
+purpose_credit_card,Purpose: Credit Card
+purpose_debt_consolidation,Purpose: Debt Consolidation
+purpose_home_improvement,Purpose: Home Improvement
+purpose_house,Purpose: House
+purpose_major_purchase,Purpose: Major Purchase
+purpose_medical,Purpose: Medical
+purpose_moving,Purpose: Moving
+purpose_other,Purpose: Other
+purpose_renewable_energy,Purpose: Renewable Energy
+purpose_small_business,Purpose: Small Business
+purpose_vacation,Purpose: Vacation
+purpose_wedding,Purpose: Wedding
+purpose_educational,Purpose: Educational
+verification_status_Not Verified,Verification Status: Not Verified
+verification_status_Source Verified,Verification Status: Source Verified
+verification_status_Verified,Verification Status: Verified
+has_secondary_applicant,Has Secondary Applicant
+sec_app_worth,Secondary Applicant Net Worth
+fico_score,FICO Score
